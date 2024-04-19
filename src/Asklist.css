@@ -1,4 +1,6 @@
 .asklist{
     border: solid 1px white;
     padding: 1rem;
+    transition: 0.3s;
+
 }

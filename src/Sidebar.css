@@ -16,10 +16,16 @@ input[type="text"]{
 
 .boton{
     margin: 1rem;
-    background-color:rgb(237, 237, 235) ;
+    color: #000;
+    background: #fff;
+    transition: 0.3s;
 }
 
 .boton:hover{
-    background-color:rgb(227, 227, 225) ;
+    color: #fff;
+    background: #4FA0EC;
     outline: none;
+}
+.title{
+    font-size: 3rem;
 }

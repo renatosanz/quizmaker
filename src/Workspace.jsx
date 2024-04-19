@@ -5,7 +5,7 @@ function Workspace() {
     return (
         <div className={"workspace"}>
             <button id={"send_answers"} >
-                Send
+                Enviar Respuesta
             </button>
 
             <Asklist/>

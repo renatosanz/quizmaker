@@ -1,17 +1,30 @@
 .ask{
     text-align: left;
-    margin: 1rem;
+    margin: 1rem 2rem;
     display: flex;
     justify-content: space-between;
+    flex-direction: column;
+    gap: 0.3rem;
+
 }
 .main_ask{
     font-weight:bold;
 }
 .sols{
     text-decoration: dotted;
+    font-size: 20px;
+    background: #4FA0EC;
+    color: #fff;
+    transition: 0.3s;
+
 }
 
 .ask_solutions{
     border-radius: 5px;
     padding-left:3rem ;
+    font-size: 20px;
+    color: #fff;
+    background: #4FA0EC;
+    transition: 0.3s;
+
 }

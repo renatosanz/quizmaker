@@ -7,3 +7,7 @@
 .cont_porcent_accurate {
     margin: auto auto 1rem auto;
 }
+.send_asnwers:hover{
+    color: #fff;
+    background: #4FA0EC;
+}
