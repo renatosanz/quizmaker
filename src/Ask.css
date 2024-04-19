@@ -1,0 +1,17 @@
+.ask{
+    text-align: left;
+    margin: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.main_ask{
+    font-weight:bold;
+}
+.sols{
+    text-decoration: dotted;
+}
+
+.ask_solutions{
+    border-radius: 5px;
+    padding-left:3rem ;
+}
