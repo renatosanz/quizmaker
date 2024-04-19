@@ -34,6 +34,38 @@ function Workspace() {
                 "skdmflksd"
             ],
             solve: "aksmdka"
+        },
+        {
+            askname: "skd fmsd kmfks",
+            solutions: [
+                "aksmdka",
+                "skdmflksd"
+            ],
+            solve: "aksmdka"
+        },
+        {
+            askname: "skdf msdk mfks",
+            solutions: [
+                "aksmdka",
+                "skdmflksd"
+            ],
+            solve: "aksmdka"
+        },
+        {
+            askname: "skdfmsdkmfks",
+            solutions: [
+                "aksmdka",
+                "skdmflksd"
+            ],
+            solve: "aksmdka"
+        },
+        {
+            askname: "skdfmsdkmfks",
+            solutions: [
+                "aksmdka",
+                "skdmflksd"
+            ],
+            solve: "aksmdka"
         }
     ];
 

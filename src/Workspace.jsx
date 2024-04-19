@@ -10,7 +10,7 @@ function Workspace() {
 
             <Asklist/>
 
-            <div>
+            <div className={"cont_porcent_accurate"}>
                 <p>85% of accuracy</p>
             </div>
         </div>

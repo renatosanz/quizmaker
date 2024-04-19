@@ -4,9 +4,9 @@ function Sidebar() {
         <div className={"sidebar"}>
             <p1>OpenNotionMentor</p1>
             <div>
-                <input type={"text"} placeholder={"Enter your page id"}/>
+                <input id={"link"} type={"text"} placeholder={"Enter your page id"}/>
             </div>
-            <button>Generate quiz</button>
+            <button className={"boton"} onClick="">Generate quiz</button>
         </div>
     )
 }
