@@ -1,8 +1,25 @@
 .sidebar{
-    border: solid 1px white;
+    border-radius: 1rem;
+    background: rgb(247, 247, 245);
     padding: 1rem;
 }
 
+#link{
+    margin: 1rem;
+    outline: none;
+
+}
+input[type="text"]{
+    font-size:18px;
+}
+
+
 .boton{
     margin: 1rem;
+    background-color:rgb(237, 237, 235) ;
+}
+
+.boton:hover{
+    background-color:rgb(227, 227, 225) ;
+    outline: none;
 }

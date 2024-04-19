@@ -4,14 +4,14 @@ import './Worskspace.css'
 function Workspace() {
     return (
         <div className={"workspace"}>
-            <bottom>
+            <button id={"send_answers"} >
                 Send
-            </bottom>
+            </button>
 
             <Asklist/>
 
             <div className={"cont_porcent_accurate"}>
-                <p>85% of accuracy</p>
+                <p id="porcentAccuracy" >85% de aciertos</p>
             </div>
         </div>
     )

@@ -6,7 +6,7 @@ function Sidebar() {
             <div>
                 <input id={"link"} type={"text"} placeholder={"Enter your page id"}/>
             </div>
-            <button className={"boton"} onClick="">Generate quiz</button>
+            <button className={"boton"} onClick="">Generar Quiz</button>
         </div>
     )
 }
