@@ -6,6 +6,7 @@ function Sidebar() {
             <div>
                 <input type={"text"} placeholder={"Enter your page id"}/>
             </div>
+            <button>Generate quiz</button>
         </div>
     )
 }
